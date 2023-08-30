@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fernandofonseca20
-- 👀 I’m interested in React, React Native, GraphQL, NodeJS, Enterpreneuship
+- 👀 I’m interested in React, React Native, GraphQL, Automated Tests, Performance Apps, NodeJS, Enterpreneuship
 - 🌱 I’m currently learning Enterpreneuship
 - 📫 How to reach me +55 24 999 510 066, luferlage@gmail.com
 
